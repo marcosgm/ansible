@@ -1,4 +1,6 @@
 [![PyPI version](https://badge.fury.io/py/ansible.svg)](http://badge.fury.io/py/ansible)
+
+[![Git](https://app.soluble.cloud/api/v1/public/badges/38a3a385-7190-4516-ae84-4560c0b52366.svg?orgId=568518005652)](https://app.soluble.cloud/repos/details/github.com/marcosgm/ansible?orgId=568518005652)  
 [![PyPI downloads](https://pypip.in/d/ansible/badge.svg)](https://pypi.python.org/pypi/ansible)
 [![Build Status](https://travis-ci.org/ansible/ansible.svg?branch=devel)](https://travis-ci.org/ansible/ansible)
 
